@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris.GUI", "Tetris.GUI\Tetris.GUI.csproj", "{A5717070-A798-46B1-B3AC-C877A71C95EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris.Domain", "Tetris.Domain\Tetris.Domain.csproj", "{DBE233F5-E606-4668-8763-56D50DA4EA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5717070-A798-46B1-B3AC-C877A71C95EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5717070-A798-46B1-B3AC-C877A71C95EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5717070-A798-46B1-B3AC-C877A71C95EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5717070-A798-46B1-B3AC-C877A71C95EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE233F5-E606-4668-8763-56D50DA4EA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE233F5-E606-4668-8763-56D50DA4EA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE233F5-E606-4668-8763-56D50DA4EA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE233F5-E606-4668-8763-56D50DA4EA23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB94C5F-6D0B-41E4-8AE9-640D8C3785C7}
+	EndGlobalSection
+EndGlobal
